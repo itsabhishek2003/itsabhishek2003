@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Abhishek Prasad
-- 👀 I’m interested in full stack web development
-- 🌱 I’m currently learning C++ 
 - 📫 How to reach me itabhishekprasad2003@gmail.com
 
 <!---
